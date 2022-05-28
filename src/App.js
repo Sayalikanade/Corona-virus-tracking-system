@@ -2,7 +2,7 @@ import './App.css';
 import LineGraph from './components/LineGraph';
 import CovidSummary from './components/CovidSummary';
 import { useEffect, useState } from 'react';
-import axios from './axios';
+import axios from './axois';
 
 
 function App() {
